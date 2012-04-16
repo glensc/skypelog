@@ -460,6 +460,7 @@ def dumpmsg_html_helper(user, chatdbbs):
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <title>[TITLE]</title><style>
+div { font-size: 10pt; font-family: Verdana, Arial, Sans-Serif; }
 div.msg span.time:before { content: "["; }
 div.msg span.time:after { content: "]"; }
 div.msg span.time { color: #7F7F7F; margin: 0ex 0.2ex 0ex 0.2ex; }
